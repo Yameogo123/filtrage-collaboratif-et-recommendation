@@ -7,9 +7,12 @@ https://drive.google.com/file/d/1jY4_sILBcocUEe946P0K6APNIoBP4TvO/view?usp=share
 puis le copier dans le même dossier que celui du script 
 
 2- Deuxièmement, installer les packages nécessaire au bon fonctionnement du script:
-  -networkx (pour le traitement des graphes (les communautés)
-  -scikit-learn (facultatif)
-  -numpy
-  -pandas
-  -random
-  -scipy
+
+<ul>
+  <li>networkx (pour le traitement des graphes (les communautés)</li>
+  <li>scikit-learn (facultatif)</li>
+  <li>-numpy</li>
+  <li>pandas</li>
+  <li>random</li>
+  <li>scipy</li>
+</ul>
