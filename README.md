@@ -1,5 +1,7 @@
 # filtrage-collaboratif-et-recommendation
-création d'un système de filtrage collaboratif et de récommendation faits entre clients et produits
+
+
+création d'un système de filtrage collaboratif et de récommendation de faits entre clients et produits
 
 
 1- la première des choses est de télécharger la base en csv de customer_to_part sur le lien suivant:
